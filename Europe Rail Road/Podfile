@@ -12,11 +12,3 @@ target 'Europe Rail Road (iOS)' do
   pod 'Firebase/Crashlytics'
 
 end
-
-target 'Europe Rail Road (macOS)' do
-  # Comment the next line if you don't want to use dynamic frameworks
-  use_frameworks!
-
-  # Pods for Europe Rail Road (macOS)
-
-end

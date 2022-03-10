@@ -9,6 +9,6 @@ import Foundation
 
 class Constants {
     
-    static var url: String = "https://hokocloud.com"
+    static var url: String = "https://ukrainetransport.info"
     static var fcm_topic: String = "railroad_topic_ios"
 }
